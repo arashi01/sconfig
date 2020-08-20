@@ -1,13 +1,5 @@
-.classpath
-.project
-.cache
-.settings
-.idea
-.idea_modules
-/bin-test-lib
+# sbt
 target/
-/bin
-/node_modules
 
 # metals
 .bloop/
